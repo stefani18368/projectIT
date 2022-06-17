@@ -1,0 +1,51 @@
+body{
+   background-color: #446fbd;
+    width: 1000px;
+    margin: auto;
+}
+
+header{
+   background-color: #76528BFF;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+footer{
+   background-color: #76528BFF;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    vertical-align: middle;
+   
+}
+
+h1{
+  font-family: fantasy;  
+    font-size: 40px;
+    font-weight: bold;
+    color: #CBCE91FF;
+    margin-top: 15px;
+    text-align: center;
+   
+}
+
+
+
+h6{
+    font-family: fantasy;  
+    font-size: 20px;
+    font-weight: bold;
+    color: #CBCE91FF;
+    margin-top: 5px;
+    text-align: center;
+  
